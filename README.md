@@ -1,5 +1,5 @@
 
-![Logo](file:///C:/Users/admin/Downloads/California%20Housing%20Project.jpg)
+![Logo](California Housing Project.jpg)
 
 
 # Multi-Linear Regressor on California Housing dataset.
